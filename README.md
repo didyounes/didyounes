@@ -23,6 +23,4 @@ Besides programming, I enjoy reading and discovering new music. I believe hobbie
 📝 **Tagline**
 "Software Engineering student, always seeking innovative solutions using C and C++."
 
----
 
-*Feel free to customize this further to match your personality, add more links, or expand on your projects and interests!*
