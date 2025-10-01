@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Younes!
 
-<!--
-**didyounes/didyounes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Engineering Student @ 1337 School (42 Network)  
+Welcome to my GitHub profile! I'm a passionate student at **1337 (part of the 42 Network)**, learning software engineering and continuously improving my skills in **programming, problem-solving, and collaboration**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 My 42 Cursus Progress
+[![yel-joul's 42 stats](https://badge.mediaplus.ma/binary/yel-joul)](https://github.com/oakoudad/badge42)
+
+---
+
+### 🚀 Languages and Tools I Use
+- C / C++  
+- Python / JavaScript  
+- Bash & Shell scripting  
+- Git & GitHub  
+- Linux (Debian / Arch)  
+- MiniLibX & OpenGL  
+
+---
+
+### 🌱 What I'm Learning
+- Advanced algorithms and data structures  
+- System-level programming (OS, concurrency, memory management)  
+- Web development (backend & frontend)  
+- Artificial Intelligence & Machine Learning  
+
+---
+
+### 📌 Some of My Projects
+- [push_swap](https://github.com/didyounes/push_swap) – Sorting algorithm with restricted stack operations  
+- [Libft](https://github.com/didyounes/libft) – Custom C standard library implementation  
+- [fract-ol](https://github.com/didyounes/fract-ol) – Fractals visualizer using MiniLibX   
+
+---
+
+✨ Feel free to explore my repositories and reach out if you'd like to collaborate!  
+
