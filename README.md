@@ -9,17 +9,31 @@ Welcome to my GitHub profile! I'm a passionate student at **1337 (part of the 42
 [![yel-joul's 42 stats](https://badge.mediaplus.ma/binary/yel-joul)](https://github.com/oakoudad/badge42)
 
 ---
-
 ### 🚀 Languages and Tools I Use
-- C / C++  
-- Python / JavaScript  
-- Bash & Shell scripting  
-- Git & GitHub  
-- Linux (Debian / Arch)  
-- MiniLibX & OpenGL  
--- Networking & Security
-  -Concepts: IPv4, Subnetting, Routing Tables, OSI Model
-  -Security: Reverse Engineering, CTF Challenges, Forensics
+
+#### 🧠 Programming Languages
+- C / C++
+- Python
+- JavaScript
+- Bash / Shell Scripting
+
+#### 🛠️ Tools & Platforms
+- Git & GitHub
+- Linux (Debian / Arch)
+- MiniLibX
+- OpenGL
+
+#### 🌐 Networking & Security
+**Networking Concepts**
+- IPv4
+- Subnetting
+- Routing Tables
+- OSI Model
+
+**Security**
+- Reverse Engineering
+- CTF Challenges
+- Web Security Challenges
 ---
 
 ### 🌱 What I'm Learning
