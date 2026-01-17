@@ -17,7 +17,9 @@ Welcome to my GitHub profile! I'm a passionate student at **1337 (part of the 42
 - Git & GitHub  
 - Linux (Debian / Arch)  
 - MiniLibX & OpenGL  
-
+- Networking & Security
+  .Concepts: IPv4, Subnetting, Routing Tables, OSI Model
+  .Security: Reverse Engineering, CTF Challenges, Forensics
 ---
 
 ### 🌱 What I'm Learning
@@ -32,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate student at **1337 (part of the 42
 - [push_swap](https://github.com/didyounes/push_swap) – Sorting algorithm with restricted stack operations  
 - [Libft](https://github.com/didyounes/libft) – Custom C standard library implementation  
 - [fract-ol](https://github.com/didyounes/fract-ol) – Fractals visualizer using MiniLibX   
-
+- [NetPractice](https://github.com/didyounes/NetPractice) – Solving complex networking puzzles to master IPv4 subnetting and routing.
 ---
 
 ✨ Feel free to explore my repositories and reach out if you'd like to collaborate!  
