@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate student at **1337 (part of the 42
 - Git & GitHub  
 - Linux (Debian / Arch)  
 - MiniLibX & OpenGL  
-- Networking & Security
-  .Concepts: IPv4, Subnetting, Routing Tables, OSI Model
-  .Security: Reverse Engineering, CTF Challenges, Forensics
+-- Networking & Security
+  -Concepts: IPv4, Subnetting, Routing Tables, OSI Model
+  -Security: Reverse Engineering, CTF Challenges, Forensics
 ---
 
 ### 🌱 What I'm Learning
