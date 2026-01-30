@@ -1,86 +1,50 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Younes+👋;Software+Engineer;Systems+Developer;1337+Student;Cybersecurity+Enthusiast" alt="Typing SVG" /></p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=200&section=header&text=Younes%20El%20Joulali&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineering%20Student%20@%201337&descAlign=50&descAlignY=60&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻+1337+/+42+Network+Student;🔐+Cybersecurity+Enthusiast;🛡️+CTF+%26+Bug+Bounty+Hunter;🐧+Arch+Linux+Power+User;🎓+Common+Core+Pioneer&font=Inter&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&height=100)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🌟 The Story
-**Started the journey at 1337 (42 Network) in Rabat.** I dive deep into the world of low-level programming and system architecture. While others look for the easy way out, I prefer the **42 way**: building everything from scratch, from custom standard libraries to 3D engines. I believe that to truly secure or optimize a system, you must first understand every single byte of how it works.
+## 🌟 The Story
 
-💻 **[View my Code Portfolio](https://github.com/didyounes?tab=repositories)**
-✨ *Proving that persistence and deep technical logic can solve any challenge* ✨
+<div align="center">
 
----
+> **The 1337 Journey:** Navigating the intensive world of systems programming at **1337 (42 Network)** in Rabat. 
+>
+> My journey is defined by deep curiosity and a relentless "hacker" mindset. I believe that to truly master software, you must understand the metal—from manual memory management in **C** to the intricate layers of the **OSI model**. Whether I'm implementing a 3D engine or auditing a network for vulnerabilities, I approach every line of code with precision and a drive for optimization.
 
-### 🎯 Professional Timeline
-| Year | Milestone | Details |
-| :--- | :--- | :--- |
-| 2025 | 🏊‍♂️ **The Piscine** | Completed the intensive 1-month selection process at 1337 |
-| 2025 | 💻 **42 Common Core** | Started the full software engineering curriculum in Rabat |
-| 2025 | 🚀 **Systems Specialist** | Successfully delivered Cub3D and NetPractice projects |
-| 2026 | 🛡️ **Security Focus** | Deep diving into CTFs, Bug Bounty, and Reverse Engineering |
-| 2026 | 🎓 **Current Goal** | Mastering C++ and Object-Oriented Design (Modules 00-04) |
+<br>
 
----
+<div align="center">
 
-### 🏆 Featured Projects
+<details>
+<summary><b>💻 View the Code Behind the Journey</b></summary>
 
-#### 🧱 [3D Raycasting Engine (Cub3D)](http://github.com/didyounes/Cub3d)
-* Raycasting logic from first principles (C & MiniLibX).
-* Texture mapping, wall collision detection, and sprite rendering.
-* Strict memory management and performance optimization.
+<br>
 
-#### 🌐 [Networking Mastery (NetPractice)](https://github.com/didyounes/NetPractice)
-* Enterprise-level IPv4 configuration and CIDR subnetting.
-* Complex routing table logic and TCP/IP stack analysis.
-* Zero-loss packet routing in tiered environments.
+```javascript
+// A journey of continuous learning and debugging
+const achievement = {
+  campus: "1337 Rabat (42 Network)",
+  login: "yel-joul",
+  focus: [
+    "🛠️ Low-Level Systems",
+    "🔐 Cybersecurity & CTFs",
+    "🌐 Network Infrastructure",
+    "🐧 Linux Internalization"
+  ],
+  os: "Arch Linux",
+  status: "Mastering the Common Core",
 
-#### ⚖️ [Algorithmic Optimization (Push_Swap)](https://github.com/didyounes/push_swap)
-* Custom sorting algorithm for restricted stack operations.
-* Complexity analysis focusing on $O(n \log n)$ performance.
-* High-efficiency data structures implemented in C.
-
----
-
-### 💻 Technical Stack
-
-**🌐 Systems & Backend Engineering**
-`C` `C++` `Python` `Node.js` `Bash` `Makefiles`
-
-**🎮 Graphics & Mathematics**
-`MiniLibX` `Raycasting` `Trigonometry` `OpenGL`
-
-**🔧 Systems Programming & Memory**
-`Memory Allocation` `Unix Signals` `Pointers` `GDB` `Valgrind`
-
-**🏗️ Algorithm Design**
-`Sort Algorithms` `Linked Lists` `Stacks & Queues` `Custom Libraries (Libft)`
-
-**🚀 DevOps & Infrastructure**
-`Arch Linux` `Docker` `Git` `Debian`
-
-**🔐 Security & Networking**
-`Reverse Engineering` `CTF` `IPv4 Subnetting` `Routing` `Wireshark`
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=didyounes&theme=tokyonight&area=true&hide_border=true&bg_color=00000000" width="100%" />
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/younes-el-joulali-7332a732a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/didyounes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-📍 **Rabat, Morocco** 🇲🇦 - 🎓 **Status: 1337 Student** - 🎯 **Focus: Systems & Security**
-
----
-
-💭 *“I approach code with the same precision as a kernel—efficient, secure, and resilient.”*
-
-**Ready to build the next generation of secure systems together? 🚀**
+  getInspiration() {
+    return "The best way to predict the future is to implement it!";
+  }
+};
