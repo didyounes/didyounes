@@ -1,73 +1,84 @@
+<h1 align="center">🚀 Younes El Joulali</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=YOUNES%20EL%20JOULALI&fontSize=70&fontColor=00d2ff&animation=fadeIn" width="100%" />
+  <b>Software Engineering Student @ 1337 (42 Network) | Systems Developer | Security Enthusiast</b>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
-  <h3>🚀 Software Engineer | Low-Level Specialist | 1337 Student</h3>
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Coding-00d2ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Low--Level_Systems-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</p>
+
+---
+
+### 📖 About Me
+I am a passionate developer currently navigating the rigorous curriculum of **1337 (42 Network)**. My expertise lies in the intersection of high-performance systems and cybersecurity. I believe in understanding exactly how code interacts with hardware, which is why I specialize in C/C++ and low-level architecture.
+
+* 📍 Based in **Rabat, Morocco**
+* 🎓 Student at **1337 / UM6P**
+* 🛠️ Currently mastering **C++ Object-Oriented Design** and **Network Infrastructure**
 
 ---
 
 ### 🏆 42 Cursus Journey
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/black/yel-joul?piscine=true" alt="42 Stats" />
+    <img src="https://badge.mediaplus.ma/black/yel-joul?piscine=true" width="400" alt="yel-joul's 42 stats" />
   </a>
 </p>
 
----
-
-### 🛠️ Technical Competency (System Status)
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-| Proficiency | Level | Stability |
-| :--- | :--- | :--- |
-| **C / Low-Level** | ![90%](https://geps.dev/bin/graph/progress?percent=90&color=00d2ff) | `STABLE` |
-| **Algorithms** | ![85%](https://geps.dev/bin/graph/progress?percent=85&color=00d2ff) | `OPTIMIZED` |
-| **Networking** | ![75%](https://geps.dev/bin/graph/progress?percent=75&color=00d2ff) | `CONNECTED` |
-| **Cybersecurity** | ![70%](https://geps.dev/bin/graph/progress?percent=70&color=00d2ff) | `ENCRYPTED` |
+#### ✅ Completed Milestones
+- [x] **Libft** – Fundamental C library implementation
+- [x] **Push_Swap** – Optimized sorting logic ($O(n \log n)$)
+- [x] **Fract-ol** – Graphical fractal rendering
+- [x] **NetPractice** – Network configuration & IPv4 routing
+- [x] **Cub3D** – Ray-casting engine (3D graphics)
 
 ---
 
-### 📂 Featured Repositories
+### 🛠️ Technical Stack
 
-#### 🧱 [Cub3D](http://github.com/didyounes/Cub3d)
-> **Ray-Casting Engine** | Custom pseudo-3D engine in C.
-> Developed a real-time rendering system using DDA algorithms and trigonometry.
-
-#### 🌐 [NetPractice](https://github.com/didyounes/NetPractice)
-> **Network Infrastructure** | Solving complex subnetting & routing.
-> Mastered the TCP/IP stack, IPv4 addressing, and enterprise routing tables.
-
-#### ⚖️ [Push_Swap](https://github.com/didyounes/push_swap)
-> **Algorithm Design** | Optimized sorting with restricted stacks.
-> Focused on $O(n \log n)$ complexity and memory efficiency.
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `C` `C++` `Python` `Bash` `JavaScript` `Node.js` |
+| **Graphics** | `OpenGL` `MiniLibX` `Raycasting` `Shaders` |
+| **Systems** | `Arch Linux` `Debian` `Docker` `Makefile` `Vim` |
+| **Networking** | `TCP/IP` `IPv4 Subnetting` `DNS` `Routing Tables` |
+| **Security** | `Reverse Engineering` `CTF` `Penetration Testing` |
 
 ---
 
-### 📉 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=didyounes&theme=tokyonight&area=true&hide_border=true&bg_color=00000000" width="100%" />
-</p>
+### 📂 Top Tier Repositories
+
+#### 🧱 [Cub3D: Pseudo-3D Engine](http://github.com/didyounes/Cub3d)
+> **Stack:** C, MiniLibX, Mathematics
+> A real-time rendering engine that recreates the mechanics of classic 90s FPS games. Focused on DDA algorithms and memory-efficient texture mapping.
+
+#### 🌐 [NetPractice: Network Architecture](https://github.com/didyounes/NetPractice)
+> **Stack:** Networking Protocols, Subnetting
+> A deep dive into the guts of the internet. Successfully configured complex routing tables and managed packet flow in tiered network environments.
+
+#### ⚖️ [Push_Swap: Sorting Optimized](https://github.com/didyounes/push_swap)
+> **Stack:** Algorithms, Data Structures
+> An algorithmic project requiring the sorting of data on a stack with a limited set of instructions, achieving the lowest possible operation count.
 
 ---
 
-### 📫 Protocols for Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/younes-el-joulali-7332a732a"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/didyounes"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### 🎯 Current Learning Path
+- 🧬 **Modern C++:** Diving deep into Templates, Smart Pointers, and STL.
+- 🛡️ **Cybersecurity:** Actively participating in CTF challenges to sharpen security auditing skills.
+- 💻 **Kernel Exploration:** Exploring the inner workings of the Linux Kernel on Arch.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=didyounes&color=00d2ff&style=flat-square&label=ACCESS+LOGS" />
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/younes-el-joulali-7332a732a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/didyounes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
