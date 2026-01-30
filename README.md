@@ -3,69 +3,71 @@
 </p>
 
 <div align="center">
-  <h3>⚡ Full-Stack Systems Architect & Security Researcher ⚡</h3>
-  <p><i>Building the future, one semi-colon at a time.</i></p>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
+  <h3>🚀 Software Engineer | Low-Level Specialist | 1337 Student</h3>
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/younes-el-joulali-7332a732a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/didyounes"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
 
-### 🏛️ The 42 Journey
+### 🏆 42 Cursus Journey
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/black/yel-joul?piscine=true" alt="yel-joul's 42 stats" />
+    <img src="https://badge.mediaplus.ma/black/yel-joul?piscine=true" alt="42 Stats" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Technical Stack
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Low Level** | `C` `C++` `Assembly` `Memory Management` |
-| **Scripting** | `Python` `Bash` `JavaScript` `Node.js` |
-| **Cybersec** | `Reverse Engineering` `CTF` `Network Analysis` |
-| **OS/Env** | `Arch Linux` `Debian` `Docker` `Vim/Neovim` |
-
----
-
-### 🚀 High-Impact Projects
-
-#### 🧱 [Cub3D: The Raycasting Engine](http://github.com/didyounes/Cub3d)
-> Implemented a pseudo-3D game engine from scratch using C and MiniLibX. Mastered DDA algorithms, raycasting logic, and texture mapping.
-
-#### 🌐 [NetPractice: Networking Mastery](https://github.com/didyounes/NetPractice)
-> Configured complex enterprise-level network infrastructures. Deep expertise in IPv4 subnetting, routing tables, and the TCP/IP stack.
-
-#### ⚖️ [Push_Swap: Algorithmic Efficiency](https://github.com/didyounes/push_swap)
-> Engineered an optimized sorting algorithm with a limited operation set. Focused on reducing time complexity to $O(n \log n)$ while managing restricted stacks.
-
----
-
-### 📊 System Status & Metrics
+### 🛠️ Technical Competency (System Status)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didyounes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+| Proficiency | Level | Stability |
+| :--- | :--- | :--- |
+| **C / Low-Level** | ![90%](https://geps.dev/bin/graph/progress?percent=90&color=00d2ff) | `STABLE` |
+| **Algorithms** | ![85%](https://geps.dev/bin/graph/progress?percent=85&color=00d2ff) | `OPTIMIZED` |
+| **Networking** | ![75%](https://geps.dev/bin/graph/progress?percent=75&color=00d2ff) | `CONNECTED` |
+| **Cybersecurity** | ![70%](https://geps.dev/bin/graph/progress?percent=70&color=00d2ff) | `ENCRYPTED` |
+
+---
+
+### 📂 Featured Repositories
+
+#### 🧱 [Cub3D](http://github.com/didyounes/Cub3d)
+> **Ray-Casting Engine** | Custom pseudo-3D engine in C.
+> Developed a real-time rendering system using DDA algorithms and trigonometry.
+
+#### 🌐 [NetPractice](https://github.com/didyounes/NetPractice)
+> **Network Infrastructure** | Solving complex subnetting & routing.
+> Mastered the TCP/IP stack, IPv4 addressing, and enterprise routing tables.
+
+#### ⚖️ [Push_Swap](https://github.com/didyounes/push_swap)
+> **Algorithm Design** | Optimized sorting with restricted stacks.
+> Focused on $O(n \log n)$ complexity and memory efficiency.
+
+---
+
+### 📉 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=didyounes&theme=tokyonight&area=true&hide_border=true&bg_color=00000000" width="100%" />
+</p>
+
+---
+
+### 📫 Protocols for Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/younes-el-joulali-7332a732a"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/didyounes"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didyounes&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
-</p>
-
----
-
-### 📈 Current Focus
-- 🔍 Deep diving into **Kernel development** and **Malware analysis**.
-- 🛠️ Perfecting the **Arch Linux** rice for maximum productivity.
-- 🏗️ Mastering **C++ Polymorphism** and Object-Oriented Design.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=didyounes&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=didyounes&color=00d2ff&style=flat-square&label=ACCESS+LOGS" />
 </p>
 
 <p align="center">
