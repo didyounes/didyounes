@@ -49,6 +49,7 @@ Welcome to my GitHub profile! I'm a passionate student at **1337 (part of the 42
 - [Libft](https://github.com/didyounes/libft) – Custom C standard library implementation  
 - [fract-ol](https://github.com/didyounes/fract-ol) – Fractals visualizer using MiniLibX   
 - [NetPractice](https://github.com/didyounes/NetPractice) – Solving complex networking puzzles to master IPv4 subnetting and routing.
+- [Cub3d](http://github.com/didyounes/Cub3d) - A 3D ray-casting engine inspired by Wolfenstein 3D, built with C and MiniLibX.
 ---
 
 ✨ Feel free to explore my repositories and reach out if you'd like to collaborate!  
