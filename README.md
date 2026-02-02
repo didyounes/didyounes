@@ -59,10 +59,10 @@ const achievement = {
 
 | Year | Milestone | Details |
 | :---: | :--- | :--- |
-| 2025 | 🏊‍♂️ The 1337 Piscine | Successfully completed the intensive 1-month selection |
-| 2025 | 💻 Common Core Start | Began software engineering curriculum at 1337 Rabat |
+| 2024 | 🏊‍♂️ The 1337 Piscine | Successfully completed the intensive 1-month selection |
+| 2024 | 💻 Common Core Start | Began software engineering curriculum at 1337 Rabat |
 | 2025 | 🚀 Graphics & Systems | Delivered Cub3D and initial C++ Modules |
-| 2026 | 🛡️ Security Specialization | Deep diving into Bug Bounty and CTF competitions |
+| 2026 | � Common Core Continuation | Advancing through complex systems and C++ projects |
 | Future | 🎓 Software Architect | Scaling complex systems and secure infrastructures |
 
 </div>
@@ -73,25 +73,31 @@ const achievement = {
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://github.com/didyounes/cub3D">
 <img src="https://img.shields.io/badge/cub3D-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
 <br>
-<b>3D Raycasting Engine</b><br>
+<b>3D Raycasting Engine</b>
+</a><br>
 Raycasting from first principles<br>
 DDA Algorithm implementation<br>
 Texture mapping & collisions
 </td>
 <td align="center" width="33%">
+<a href="https://github.com/didyounes/NetPractice">
 <img src="https://img.shields.io/badge/NetPractice-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
 <br>
-<b>Network Infrastructure</b><br>
+<b>Network Infrastructure</b>
+</a><br>
 IPv4 Subnetting & Routing<br>
 TCP/IP Stack mastery<br>
 Tiered network configuration
 </td>
 <td align="center" width="33%">
+<a href="https://github.com/didyounes/push_swap">
 <img src="https://img.shields.io/badge/push_swap-100%2F100-blue?style=for-the-badge&logo=42&logoColor=white" />
 <br>
-<b>Algorithm Optimization</b><br>
+<b>Algorithm Optimization</b>
+</a><br>
 Stack-based sorting logic<br>
 Complexity analysis ($O(n \log n)$)<br>
 Custom memory-efficient structures
@@ -105,13 +111,13 @@ Custom memory-efficient structures
 
 | Project | Status | Skills | Complexity |
 | :--- | :---: | :--- | :---: |
-| minishell | In Progress | Shell implementation, process management | 🔴 High |
-| cub3D | Completed | 3D graphics, raycasting, C | 🔴 High |
-| NetPractice | Completed | Network configuration, TCP/IP, Subnetting | 🟢 Basic |
-| push_swap | Completed | Algorithm optimization, sorting | 🟡 Medium |
-| fract-ol | Completed | 2D graphics, fractals, MiniLibX | 🟡 Medium |
-| libft | Completed | C standard library implementation | 🟢 Basic |
-| CPP Modules | Ongoing | OOP, templates, STL (Modules 00-04) | 🟡 Medium |
+| [minishell](https://github.com/didyounes/minishell) | In Progress | Shell implementation, process management | 🔴 High |
+| [cub3D](https://github.com/didyounes/cub3D) | Completed | 3D graphics, raycasting, C | 🔴 High |
+| [NetPractice](https://github.com/didyounes/NetPractice) | Completed | Network configuration, TCP/IP, Subnetting | 🟢 Basic |
+| [push_swap](https://github.com/didyounes/push_swap) | Completed | Algorithm optimization, sorting | 🟡 Medium |
+| [fract-ol](https://github.com/didyounes/fract-ol) | Completed | 2D graphics, fractals, MiniLibX | 🟡 Medium |
+| [libft](https://github.com/didyounes/libft) | Completed | C standard library implementation | 🟢 Basic |
+| [CPP Modules](https://github.com/didyounes/CPP-Modules) | Ongoing | OOP, templates, STL (Modules 00-04) | 🟡 Medium |
 
 </details>
 
