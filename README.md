@@ -133,8 +133,8 @@ Custom memory-efficient structures
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=didyounes&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/didyounes)
+[![GitHub Streak](https://streak-stats.demolab.com?user=didyounes&theme=tokyonight&hide_border=true)](https://github.com/didyounes)
 </div>
 
 ### 🚀 Next Chapter: Security & Systems
