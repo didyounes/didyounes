@@ -133,7 +133,7 @@ Custom memory-efficient structures
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=didyounes&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didyounes&layout=compact&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=didyounes&theme=tokyonight&hide_border=true" />
 </div>
 
