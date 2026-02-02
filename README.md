@@ -167,17 +167,17 @@ Deeply immersed in the 42 Common Core while preparing for advanced cybersecurity
 ### 🤝 Let’s Connect
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-el-joulali-7332a732a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didyounes)
-<table>
-<tr>
-<td align="center"></td>
-<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-el-joulali-7332a732a) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didyounes)
+
+<br>
+
 📍 Rabat, Morocco 🇲🇦  -  🎓 Status: 1337 Student  -  🎯 Open to: Security & Systems roles  -  🌟 Specialization: C/C++ Development
-</td>
-</tr>
-</table>
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=didyounes&label=Profile%20Views&color=00D2FF&style=flat" />
+
 </div>
 
 <div align="center">
