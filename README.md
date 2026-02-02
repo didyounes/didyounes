@@ -124,18 +124,29 @@ Custom memory-efficient structures
 ### 💻 Technical Stack
 
 <div align="center">
-  <p>
-    🌐 Systems & Low-Level Engineering • 🛡️ Cybersecurity & Networking<br>
-    🏗️ Algorithm Design & Data Structures • 🚀 DevOps & Environment
-  </p>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 </div>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-streak-stats.herokuapp.com?user=didyounes&theme=tokyonight&hide_border=true)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&ring_color=7C3AED" />
+<img width="49%" src="https://streak-stats.demolab.com?user=didyounes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=FFFFFF" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didyounes&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" />
 
 </div>
 
