@@ -124,22 +124,22 @@ Custom memory-efficient structures
 ### 💻 Technical Stack
 
 <div align="center">
-🌐 Systems & Low-Level Engineering<br>
-🛡️ Cybersecurity & Networking<br>
-🏗️ Algorithm Design & Data Structures<br>
-🚀 DevOps & Environment
+  <p>
+    🌐 Systems & Low-Level Engineering • 🛡️ Cybersecurity & Networking<br>
+    🏗️ Algorithm Design & Data Structures • 🚀 DevOps & Environment
+  </p>
 </div>
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-<a href="https://github.com/didyounes">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/didyounes">
-<img align="center" src="https://streak-stats.demolab.com?user=didyounes&theme=tokyonight" />
-</a>
-</div>
+<p align="center">
+  <a href="https://github.com/didyounes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/didyounes">
+    <img height="180em" src="https://streak-stats.demolab.com?user=didyounes&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ### 🚀 Next Chapter: Security & Systems
 
