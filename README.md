@@ -111,7 +111,7 @@ Custom memory-efficient structures
 
 | Project | Status | Skills | Complexity |
 | :--- | :---: | :--- | :---: |
-| [minishell](https://github.com/didyounes/minishell) | In Progress | Shell implementation, process management | 🔴 High |
+| [minishell](https://github.com/didyounes/minishell) | Completed | Shell implementation, process management | 🔴 High |
 | [cub3D](https://github.com/didyounes/cub3D) | Completed | 3D graphics, raycasting, C | 🔴 High |
 | [NetPractice](https://github.com/didyounes/NetPractice) | Completed | Network configuration, TCP/IP, Subnetting | 🟢 Basic |
 | [push_swap](https://github.com/didyounes/push_swap) | Completed | Algorithm optimization, sorting | 🟡 Medium |
