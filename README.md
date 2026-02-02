@@ -134,7 +134,10 @@ Custom memory-efficient structures
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/didyounes) [![GitHub Streak](https://streak-stats.demolab.com?user=didyounes&theme=tokyonight&hide_border=true)](https://github.com/didyounes)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=didyounes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&ring_color=7C3AED" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=didyounes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=FFFFFF" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didyounes&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" />
 
 </div>
 
