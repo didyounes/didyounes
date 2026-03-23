@@ -73,7 +73,7 @@ const achievement = {
 <table>
 <tr>
 <td align="center" colspan="3">
-<a href="https://github.com/yel-joul/did_finder">
+<a href="https://github.com/didyounes/did_finder">
 <img src="https://img.shields.io/badge/did__finder-Advanced_Recon-FF2D20?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <br>
 <b>🔍 Advanced Subdomain Discovery Engine</b>
@@ -105,14 +105,14 @@ TCP/IP Stack mastery<br>
 Tiered network configuration
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/didyounes/push_swap">
-<img src="https://img.shields.io/badge/push_swap-100%2F100-blue?style=for-the-badge&logo=42&logoColor=white" />
+<a href="https://github.com/didyounes/did_finder">
+<img src="https://img.shields.io/badge/did__finder-Recon_Tool-FF2D20?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <br>
-<b>Algorithm Optimization</b>
+<b>Subdomain Discovery</b>
 </a><br>
-Stack-based sorting logic<br>
-Complexity analysis ($O(n \log n)$)<br>
-Custom memory-efficient structures
+15 passive + 12 active modules<br>
+Takeover, CORS, WAF detection<br>
+Built in Go · HTML reports
 </td>
 </tr>
 </table>
@@ -123,7 +123,7 @@ Custom memory-efficient structures
 
 | Project | Status | Skills | Complexity |
 | :--- | :---: | :--- | :---: |
-| [did_finder](https://github.com/yel-joul/did_finder) | Active | Subdomain enumeration, Go, security tooling | 🔴 High |
+| [did_finder](https://github.com/didyounes/did_finder) | Active | Subdomain enumeration, Go, security tooling | 🔴 High |
 | [minishell](https://github.com/didyounes/minishell) | Completed | Shell implementation, process management | 🔴 High |
 | [cub3D](https://github.com/didyounes/cub3D) | Completed | 3D graphics, raycasting, C | 🔴 High |
 | [NetPractice](https://github.com/didyounes/NetPractice) | Completed | Network configuration, TCP/IP, Subnetting | 🟢 Basic |
