@@ -72,6 +72,18 @@ const achievement = {
 <div align="center">
 <table>
 <tr>
+<td align="center" colspan="3">
+<a href="https://github.com/yel-joul/did_finder">
+<img src="https://img.shields.io/badge/did__finder-Advanced_Recon-FF2D20?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<br>
+<b>🔍 Advanced Subdomain Discovery Engine</b>
+</a><br>
+15 passive sources + 12 active modules · Built in Go<br>
+DNS brute, takeover detection, CORS & redirect checks, WAF fingerprinting, port scanning<br>
+HTML reports · JSON/CSV · Resume · Webhooks
+</td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <a href="https://github.com/didyounes/cub3D">
 <img src="https://img.shields.io/badge/cub3D-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
@@ -111,6 +123,7 @@ Custom memory-efficient structures
 
 | Project | Status | Skills | Complexity |
 | :--- | :---: | :--- | :---: |
+| [did_finder](https://github.com/yel-joul/did_finder) | Active | Subdomain enumeration, Go, security tooling | 🔴 High |
 | [minishell](https://github.com/didyounes/minishell) | Completed | Shell implementation, process management | 🔴 High |
 | [cub3D](https://github.com/didyounes/cub3D) | Completed | 3D graphics, raycasting, C | 🔴 High |
 | [NetPractice](https://github.com/didyounes/NetPractice) | Completed | Network configuration, TCP/IP, Subnetting | 🟢 Basic |
@@ -127,6 +140,7 @@ Custom memory-efficient structures
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
